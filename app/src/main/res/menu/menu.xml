@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/item1" android:title="Yes">
+    <menu>
+        <item android:id="@+id/subitem1" android:title="Firt Trimester"></item>
+        <item android:id="@+id/subitem2" android:title="Second Trimester"></item>
+        <item android:id="@+id/subitem3" android:title="Third Trimester"></item>
+    </menu>
+    </item>
+    <item android:id="@+id/item2" android:title="No"></item>
+
+</menu>
